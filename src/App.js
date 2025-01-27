@@ -9,7 +9,7 @@ function App() {
     <div
       className="w-full h-screen duration-200 style"
       style={{ backgroundColor: color }}
-      
+ 
     >
      <div className="text-center text-white font-bold text-2xl px-40 py-50">
        Background is  {color} 
