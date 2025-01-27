@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+Deployed project Link:
 
 [https://background-color-changer-five-silk.vercel.app/](https://background-color-changer-five-silk.vercel.app/)
 
